@@ -1,0 +1,12 @@
+Rules
+1. You need one less spoon than the total amount of players
+2. Place the spoons in the middle
+3. Each player gets 4 cards and may only have 4 cards in their hand at a time
+4. The first player takes the top card from the deck and can either pass it on the next person or replace it with a card in his hand
+   and passes
+5. The next player then takes the card passed on and does the same to his hand
+6. This continues until the last person, who takes the passed on card and places it into a discard pile
+7. If there are still spoons remaining in the middle, the discard pile is handed to the first player to be used
+8. To obtain the first spoon, a player must have 4 of a kind in their hand
+9. Once the first spoon has been taken, the remaining players may take the spoons
+10. The player who doesn't have a spoon once the round is over loses
