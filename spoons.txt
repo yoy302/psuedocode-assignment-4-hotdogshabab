@@ -1,0 +1,23 @@
+Spoons
+Rules:
+1. Decide who will be the first person, the trash, and in the middle
+2. You need one less spoon than the total amount of players
+3. Place the spoons in the middle
+4. Each player gets 4 cards and may only have 4 cards in their hand at a time
+5. The first player takes the top card from the deck and can either pass it on the next person or replace it with a card in his hand and      passes
+6. The next player then takes the card passed on and does the same to his hand
+7. This continues until the last person, who takes the passed on card and places it into a discard pile, AKA the trash
+8. If there are still spoons remaining in the middle and the deck is finished, the discard pile is handed to the first player to be used
+9. To obtain the first spoon, a player must have 4 of a kind in their hand
+10. Once the first spoon has been taken, the remaining players may take the spoons
+11. The player who doesn't have a spoon once the round is over loses
+12. If a spoon is mistakenly taken then restart the round
+
+Turn 1:
+You are in the middle. Recieve 4 cards. Check if there are any spoons. If all the spoons are taken. You lose. If there is one spoon taken or you have four cards of the same number during any point in the turn, take one spoon. You win. If no spoons are taken, take the card that is passed to you. If that card matches any one of yours, take that card and pass on the card that doesn't match in your hand unless you have 3 of a kind. In that case, only take a card into your hand that is the same number as the cards in the matching three. Pass on the card that you don't want to the next person.
+
+Turn 2:
+You are in the middle. Check if there are any spoons. If all the spoons are taken. You lose. If there is one spoon taken or you have four cards of the same number during any point in the turn, take one spoon. You win. If no spoons are taken, take the card that is passed to you. If that card matches any one of yours, take that card and pass on the card that doesn't match in your hand, unless you have 3 of a kind. In that case, only take a card into your hand that is the same number as the cards in the matching three. Pass on the card that you don't want to the next person.
+
+Turn 3:
+You are in the middle. Check if there are any spoons. If all the spoons are taken. You lose. If there is one spoon taken or you have four cards of the same number during any point in the turn, take one spoon. You win. If no spoons are taken, take the card that is passed to you. If that card matches any one of yours, take that card and pass on the card that doesn't match in your hand, unless you have 3 of a kind. In that case, only take a card into your hand that is the same number as the cards in the matching three. Pass on the card that you don't want to the next person.
