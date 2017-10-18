@@ -15,21 +15,21 @@ Rules:
 12. If a spoon is mistakenly taken then restart the round
 
 Turn 1:
-You are in the middle. Recieve 4 cards. Check if there are any spoons. If all the spoons are taken. You lose. If there is one spoon taken
+You are in the middle. Recieve 4 cards. Check if there are any spoons. If all the spoons are taken, you lose. If there is one spoon taken
 or you have four cards of the same number during any point in the turn, take one spoon. You win. If no spoons are taken, take the card that
 is passed to you. If that card matches any one of yours, take that card and pass on the card that doesn't match in your hand unless you 
 have 3 of a kind. In that case, only take a card into your hand that is the same number as the cards in the matching three. Pass on the
 card that you don't want to the next person.
 
 Turn 2:
-You are in the middle. Check if there are any spoons. If all the spoons are taken. You lose. If there is one spoon taken or you have four 
+You are in the middle. Check if there are any spoons. If all the spoons are taken, you lose. If there is one spoon taken or you have four 
 cards of the same number during any point in the turn, take one spoon. You win. If no spoons are taken, take the card that is passed to
 you. If that card matches any one of yours, take that card and pass on the card that doesn't match in your hand, unless you have 3 of a 
 kind. In that case, only take a card into your hand that is the same number as the cards in the matching three. Pass on the card that you
 don't want to the next person.
 
 Turn 3:
-You are in the middle. Check if there are any spoons. If all the spoons are taken. You lose. If there is one spoon taken or you have four
+You are in the middle. Check if there are any spoons. If all the spoons are taken, you lose. If there is one spoon taken or you have four
 cards of the same number during any point in the turn, take one spoon. You win. If no spoons are taken, take the card that is passed to
 you. If that card matches any one of yours, take that card and pass on the card that doesn't match in your hand, unless you have 3 of a
 kind. In that case, only take a card into your hand that is the same number as the cards in the matching three. Pass on the card that you
