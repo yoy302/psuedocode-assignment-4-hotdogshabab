@@ -4,7 +4,8 @@ Rules:
 2. You need one less spoon than the total amount of players
 3. Place the spoons in the middle
 4. Each player gets 4 cards and may only have 4 cards in their hand at a time
-5. The first player takes the top card from the deck and can either pass it on the next person or replace it with a card in his hand and      passes
+5. The first player takes the top card from the deck and can either pass it on the next person or replace it with a card in his hand and
+   passes
 6. The next player then takes the card passed on and does the same to his hand
 7. This continues until the last person, who takes the passed on card and places it into a discard pile, AKA the trash
 8. If there are still spoons remaining in the middle and the deck is finished, the discard pile is handed to the first player to be used
