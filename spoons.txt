@@ -12,7 +12,7 @@ This continues until the last person, who takes the passed on card and places it
 If there are still spoons remaining in the middle and the deck is finished:
    then the discard pile will be handed to the first player to be used.
 To obtain the first spoon, a player must have 4 of a kind in their hand.
-Once the first spoon has been taken, the remaining players may take the spoons.
+Once the first spoon has been taken, the remaining players may take the spoons(No one can grab spoon until first spoon is taken tf?).
 The player who doesn't have a spoon once the round is over loses.
 If a spoon is mistakenly taken:
    then restart the round.
@@ -20,17 +20,17 @@ If a spoon is mistakenly taken:
 Turn 1:
 You are in the middle.
 Recieve 4 cards. 
-If no spoons remain in the middle:
+If no spoons remain in the middle(you lose even if you're the one with the spoons?):
    You lose. 
 While no spoons have been taken from the middle:
-   If you have four cards of the same number:
+   If you have four cards of the same number(what about symbol?):
       Grab 1 spoon. 
-      You win. 
+      You win. (why win with only one spoon grab?)
    Look at the card that is passed onto you. 
    If that card matches any one of yours:
       If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
          Take the card passed onto you and replace it with the card that doesn't match with any of the other cards in your hand.
-         Grab 1 spoon.
+         Grab 1 spoon(Win with only one spoon).
          You win.
    Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
 
@@ -67,3 +67,4 @@ While no spoons have been taken from the middle:
          Grab 1 spoon.
          You win.
    Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
+   (My comments are applicable to the whole of the code)
