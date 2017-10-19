@@ -21,11 +21,11 @@ Turn 1:
 You are in the middle.
 Recieve 4 cards. 
 If no spoons remain in the middle:
-   You lose. 
+   You lose. (even if you have spoon is no spoon in middle you lose wtf bro?)
 While no spoons have been taken from the middle:
    If you have four cards of the same number:
       Grab 1 spoon. 
-      You win. 
+      You win. (You win if only grab one spoon wtf)
    Look at the card that is passed onto you. 
    If that card matches any one of yours:
       If you already have 3 cards of the same number and that card passed onto you matches those 3 cards:
@@ -67,3 +67,4 @@ While no spoons have been taken from the middle:
          Grab 1 spoon.
          You win.
    Take the card passed onto you and pass on the card in your hand that doesn't match with any of the others.
+(My comments applicable throughtout the whole code bruv)
